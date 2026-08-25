@@ -8,8 +8,7 @@
 
 A modern, fullstack **Employee Management System** built with **Angular (Standalone Architecture)**, **Node.js Express**, **MySQL Database**, **JWT Authentication**, and **Tailwind CSS**.
 
-🔗 **Live Deployment URL**: ((https://employee-management-app-ua67.onrender.com)) *(See [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md) to set up your free deployment on Render)*
-
+🔗 **Live Deployment URL**: (https://employee-management-app-ua67.onrender.com)
 ---
 
 ## ✨ Features
