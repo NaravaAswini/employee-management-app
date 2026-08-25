@@ -20,10 +20,10 @@ import { AuthService } from '../../core/services/auth.service';
               </div>
               <div class="flex flex-col">
                 <span class="font-bold text-lg bg-gradient-to-r from-slate-900 via-slate-800 to-indigo-950 bg-clip-text text-transparent leading-none">
-                  StaffPulse
+                  Employee Management
                 </span>
                 <span class="text-[10px] text-slate-400 font-medium tracking-wide uppercase mt-0.5">
-                  HR Management
+                  Portal
                 </span>
               </div>
             </a>

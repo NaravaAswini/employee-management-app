@@ -19,9 +19,9 @@ import { CustomValidators } from '../../core/validators/custom.validators';
           <div class="inline-flex items-center justify-center w-14 h-14 rounded-2xl bg-indigo-600 text-white shadow-lg shadow-indigo-200 mb-3">
             <span class="material-symbols-outlined text-3xl">badge</span>
           </div>
-          <h1 class="text-2xl font-bold text-slate-900 tracking-tight">StaffPulse</h1>
+          <h1 class="text-2xl font-bold text-slate-900 tracking-tight">Employee Management</h1>
           <p class="text-xs sm:text-sm text-slate-500 mt-1">
-            {{ isLoginMode ? 'Welcome back! Sign in to manage your workforce' : 'Create an account to get started' }}
+            {{ isLoginMode ? 'Welcome back! Sign in to manage your employees' : 'Create an account to get started' }}
           </p>
         </div>
 
@@ -395,7 +395,7 @@ export class LoginRegisterComponent implements OnInit {
     this.authService.register(this.registerForm.value).subscribe({
       next: (res) => {
         this.isLoading = false;
-        this.toastService.success('Registration successful! Welcome to StaffPulse.');
+        this.toastService.success('Registration successful! Welcome to Employee Management.');
         this.router.navigate(['/employees']);
       },
       error: (err) => {

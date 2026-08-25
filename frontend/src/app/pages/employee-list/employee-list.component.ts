@@ -246,7 +246,7 @@ import { ConfirmModalComponent } from '../../shared/components/confirm-modal.com
             <!-- Table Footer Count -->
             <div class="py-3 px-6 bg-slate-50 border-t border-slate-200/80 text-xs text-slate-500 flex items-center justify-between">
               <span>Showing {{ filteredEmployees.length }} of {{ employees.length }} total employees</span>
-              <span class="font-medium text-slate-700">StaffPulse HR</span>
+              <span class="font-medium text-slate-700">Employee Management</span>
             </div>
           </div>
         }

@@ -24,7 +24,7 @@ import { ToastComponent } from './shared/components/toast.component';
       <!-- Footer -->
       <footer class="bg-white border-t border-slate-200 py-6 text-center text-xs text-slate-500">
         <div class="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-2">
-          <p>© 2026 StaffPulse Employee Management System. All rights reserved.</p>
+          <p>© 2026 Employee Management System. All rights reserved.</p>
           <p class="text-slate-400">Angular 19 • Express • MySQL • Tailwind CSS</p>
         </div>
       </footer>
