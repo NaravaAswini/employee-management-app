@@ -1,4 +1,4 @@
-# 🏢 StaffPulse - Modern Employee Management System
+# StaffPulse - Modern Employee Management System
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://your-app-name.onrender.com)
 [![Angular 19](https://img.shields.io/badge/Angular_19-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
