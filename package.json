@@ -1,0 +1,24 @@
+{
+  "name": "employee-management-app",
+  "version": "1.0.0",
+  "description": "Fullstack Employee Management System with Angular 19, Node.js Express, and MySQL",
+  "scripts": {
+    "install:all": "npm install --prefix backend && npm install --prefix frontend",
+    "start": "node backend/src/server.js",
+    "start:backend": "npm run dev --prefix backend",
+    "start:frontend": "npm run start --prefix frontend",
+    "build:frontend": "npm run build --prefix frontend",
+    "build": "npm run build --prefix frontend"
+  },
+  "keywords": [
+    "angular",
+    "express",
+    "mysql",
+    "employee-management",
+    "crud",
+    "jwt-auth",
+    "tailwind-css"
+  ],
+  "author": "",
+  "license": "MIT"
+}
