@@ -161,4 +161,3 @@ git commit -m "docs: add live Render deployment link"
 git push
 ```
 
-You are ready for project submission! 🎉
